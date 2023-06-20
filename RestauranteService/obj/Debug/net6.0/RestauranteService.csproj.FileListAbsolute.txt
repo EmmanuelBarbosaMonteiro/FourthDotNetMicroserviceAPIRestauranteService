@@ -111,3 +111,41 @@ C:\Users\daniel.mastub\aluramicro\RestauranteService\obj\Debug\net6.0\scopedcss\
 C:\Users\daniel.mastub\aluramicro\RestauranteService\obj\Debug\net6.0\RestauranteService.csproj.CopyComplete
 C:\Users\daniel.mastub\aluramicro\RestauranteService\obj\Debug\net6.0\refint\RestauranteService.dll
 C:\Users\daniel.mastub\aluramicro\RestauranteService\obj\Debug\net6.0\RestauranteService.genruntimeconfig.cache
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\appsettings.Development.json
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\appsettings.json
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\RestauranteService.exe
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\RestauranteService.deps.json
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\RestauranteService.runtimeconfig.json
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\RestauranteService.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\RestauranteService.pdb
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\AutoMapper.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\Humanizer.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\MySqlConnector.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\RestauranteService.csproj.AssemblyReference.cache
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\RestauranteService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\RestauranteService.AssemblyInfoInputs.cache
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\RestauranteService.AssemblyInfo.cs
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\RestauranteService.csproj.CoreCompileInputs.cache
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\RestauranteService.MvcApplicationPartsAssemblyInfo.cs
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\RestauranteService.MvcApplicationPartsAssemblyInfo.cache
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\staticwebassets.build.json
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\staticwebassets.development.json
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\scopedcss\bundle\RestauranteService.styles.css
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\RestauranteService.csproj.CopyComplete
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\RestauranteService.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\refint\RestauranteService.dll
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\RestauranteService.pdb
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\RestauranteService.genruntimeconfig.cache
+C:\Projeto Cs\RestauranteServicesApiMicrosservicos\RestauranteService\obj\Debug\net6.0\ref\RestauranteService.dll
